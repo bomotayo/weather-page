@@ -1,0 +1,36 @@
+.weather-title{
+  color: white;
+  padding: 50px;
+  padding-left: 36%;
+  font-size: 40px;
+  background-color: lightskyblue;
+  margin-top: -10px;
+  margin-left: -10px;     
+}
+.city-section{
+  margin-left: 37%;
+}
+.city-text{
+  margin-left: 7%;
+  color: rgb(66, 159, 217);
+  font-size: 20px;
+}
+#city-button{
+  background-color: lightskyblue;
+  color: white;
+  width: 15%;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 15px;
+}
+#city-input{
+  padding: 6px;
+  width: 200px;
+  font-size: 15px;
+}
+
+#show{
+  margin-left: 35%;
+  margin-top: 30px;
+  font-size: 25px;
+}
